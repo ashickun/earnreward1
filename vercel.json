@@ -1,8 +1,10 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/(?i)lulu",
-      "destination": "/lulu"
+      "source": "/lulu",
+      "destination": "/lulu",
+      "caseSensitive": false
     }
   ]
 }
