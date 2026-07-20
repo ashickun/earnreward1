@@ -2,8 +2,8 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/:lulu(lulu)",
-      "destination": "/lulu"
+      "source": "/:path(lulu)",
+      "destination": "/lulu/index.html"
     }
   ]
 }
