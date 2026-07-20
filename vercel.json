@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/:path(lulU|luLu|luLU|lUlu|lUlU|lULu|lULU|Lulu|LulU|LuLu|LuLU|LUlu|LUlU|LULu|LULU)",
-      "destination": "/lulu",
+      "destination": "/lulu.html",
       "permanent": false
     }
   ]
