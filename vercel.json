@@ -2,9 +2,8 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/lulu",
-      "destination": "/lulu",
-      "caseSensitive": false
+      "source": "/:lulu(lulu)",
+      "destination": "/lulu"
     }
   ]
 }
