@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:path(lulu|lulU|luLu|luLU|lUlu|lUlU|lULu|lULU|Lulu|LulU|LuLu|LuLU|LUlu|LUlU|LULu|LULU)",
+      "source": "/:path(lulU|luLu|luLU|lUlu|lUlU|lULu|lULU|Lulu|LulU|LuLu|LuLU|LUlu|LUlU|LULu|LULU)",
       "destination": "/lulu",
       "permanent": false
     }
