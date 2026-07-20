@@ -1,9 +1,10 @@
 {
   "cleanUrls": true,
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/:path(lulu)",
-      "destination": "/lulu/index.html"
+      "source": "/:path(lulu|lulU|luLu|luLU|lUlu|lUlU|lULu|lULU|Lulu|LulU|LuLu|LuLU|LUlu|LUlU|LULu|LULU)",
+      "destination": "/lulu",
+      "permanent": false
     }
   ]
 }
